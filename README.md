@@ -1,7 +1,7 @@
 # REG
 this is a Registry web system. 
 
-The system holds information about letters received in a company(i can't add company name for security reasons).
+The system holds information about letters received in a company
 The system was designed to help sort letters in an orderly manner. 
 YOU can do multi query here either with the name of the letter, the name and the date, the date or query all letter from the same page
 
